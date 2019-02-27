@@ -1,0 +1,9 @@
+Realistic Lambda: 0.2800000000000000
+Step Size: 0.5500000000000000
+Steps: 58
+Total Correct Adversarial Examples: 836/870
+Total Wrong Adversarial Examples: 0/870
+Total Vanished Adversarial Examples: 34/870
+Total Images L1 Distance: 348.490
+Total Images L2 Distance: 2.110
+Total Images CWSSIM Distance: 0.456

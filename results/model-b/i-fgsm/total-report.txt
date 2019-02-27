@@ -1,0 +1,8 @@
+Epsilon: 0.0260000000000000
+Steps: 20
+Total Correct Adversarial Examples: 822/870
+Total Wrong Adversarial Examples: 14/870
+Total Vanished Adversarial Examples: 34/870
+Total Images L1 Distance: 1667.204
+Total Images L2 Distance: 5.749
+Total Images CWSSIM Distance: 0.423
