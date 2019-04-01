@@ -1,0 +1,12 @@
+Realistic Lambda: 0.2200000000000000
+Step Size: 1.0000000000000000
+Steps: 50
+Total Correct Adversarial Examples: 865/870
+Total Wrong Adversarial Examples: 5/870
+Total Images L1 Value: 876.95258390
+Total Images L2 Value: 3.58490790
+Total Images MSE Value: 0.00011649
+Total Images RMSE Value: 0.01050701
+Total Images NRMSE Value: 0.02410926
+Total Images PSNR Value: 39.84136813
+Total Images MSSIM Value: 0.98509781
