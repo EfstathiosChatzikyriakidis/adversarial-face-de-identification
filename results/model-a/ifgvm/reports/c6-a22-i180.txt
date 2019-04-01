@@ -1,0 +1,27 @@
+Adversarial Image - Expected Class: 22
+Adversarial Image - Actual Class: 22
+Input Image - Expected Class: 6
+Input Image - Actual Class: 6
+Target & Adversarial Images L1 Value: 1731.09436035
+Target & Adversarial Images L2 Value: 5.74763918
+Target & Adversarial Images MSE Value: 0.00028378
+Target & Adversarial Images RMSE Value: 0.01684577
+Target & Adversarial Images NRMSE Value: 0.04397475
+Target & Adversarial Images PSNR Value: 35.47018161
+Target & Adversarial Images MSSIM Value: 0.93923883
+Valid Adversarial Prediction: True
+Valid Input Prediction: True
+Input Image - Model Output Probabilities:
+[1.2260652e-04 4.3116619e-05 1.9560799e-04 6.6065353e-05 1.7451435e-05
+ 4.8166625e-05 9.9553764e-01 6.3950043e-05 1.5511528e-04 4.9892195e-05
+ 4.5148723e-04 1.0897280e-04 4.1892193e-04 1.5543395e-04 7.1595176e-05
+ 1.1516981e-04 1.8923140e-04 1.2802157e-03 1.2525146e-04 6.8416091e-05
+ 6.3285108e-05 4.1534979e-05 1.6725162e-04 2.6114616e-05 3.5315425e-05
+ 2.2645485e-04 6.5200962e-05 3.3333607e-05 1.8410728e-05 3.8924172e-05]
+Adversarial Image - Model Output Probabilities:
+[1.0364885e-03 1.0814072e-03 2.1996547e-03 9.7400747e-04 3.5520218e-04
+ 4.1960934e-04 4.9787447e-02 1.4183170e-03 1.6850869e-03 3.4594670e-04
+ 7.3180848e-04 1.2313928e-03 1.0196055e-02 1.2550993e-03 1.1118191e-03
+ 3.2397062e-03 4.5545711e-03 6.9754445e-03 3.3283713e-03 1.5253122e-03
+ 2.1200343e-04 6.4455403e-04 8.9853996e-01 2.3551703e-04 1.3414820e-03
+ 1.7287242e-03 1.9154667e-03 3.1667567e-04 1.2555112e-03 3.5730473e-04]
