@@ -1,0 +1,12 @@
+Epsilon: 0.0220000000000000
+Step Size: 0.1000000000000000
+Steps: 40
+Total Correct Adversarial Examples: 811/870
+Total Wrong Adversarial Examples: 59/870
+Total Images L1 Value: 579.16107178
+Total Images L2 Value: 2.67641282
+Total Images MSE Value: 0.00006410
+Total Images RMSE Value: 0.00784430
+Total Images NRMSE Value: 0.01810018
+Total Images PSNR Value: 42.30405415
+Total Images MSSIM Value: 0.99314434
